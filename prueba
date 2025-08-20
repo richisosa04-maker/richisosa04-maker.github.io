@@ -3,8 +3,8 @@
 // Copiá este contenido en app/page.jsx una vez que tengas Tailwind configurado.
 
 const BUSINESS = {
-  name: "EVEREST",
-  slogan: "Tu confort en buenas manos",
+  name: "EVEREST PANCHOS",
+  slogan: "Tu confort en PANCHOS CASEROS manos",
   phoneE164: "5491123456789", // 54 + área sin 0 + número sin 15
   email: "contacto@everest.com.ar",
   city: "Zona Sur GBA",
